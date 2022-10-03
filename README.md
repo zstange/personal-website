@@ -1,2 +1,2 @@
-# personal-website
-This is the codebase for my personal website, all about me
+# Zach's personal website
+My personal website, coded in React.js and hosted on Firebase
